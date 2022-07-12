@@ -61,6 +61,7 @@ main {
     flex-direction: column;
     justify-content: space-between;
     padding: 30px;
+    margin: 0;
 
 }
 
@@ -73,9 +74,9 @@ main {
 
 .perfume-title {
     font-family: 'Fraunces', sans-serif;
-    font-size: 15px;
     font-weight: 700;
-    line-height: 200%;
+    line-height: 150%;
+    font-size: larger;
 
 }
 
